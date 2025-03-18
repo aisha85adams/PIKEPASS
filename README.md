@@ -23,7 +23,7 @@ The **Keyword** project is a full-stack web application that allows users to tra
 
 - **Name**: Aisha Adams
 - **Email**: aisha85adams@outlook.com
-- **Website**: [Oklahoma Turnpike Authority][https](https://www-pikepass.com))
+- **Website**: [Oklahoma Turnpike Authority](https://www-pikepass.com)
 
 **Bio**:  
 Aisha Adams is an experienced web developer with expertise in front-end technologies such as React, JavaScript, and CSS. With several years of experience in software development, they are passionate about building user-friendly applications and contributing to open-source projects. They aim to make complex technologies accessible and enjoy helping others succeed in their coding journey.
